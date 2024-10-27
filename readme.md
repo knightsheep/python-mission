@@ -12,7 +12,7 @@
 ##### Submit the python script or notebook to me as well as the outputs.
 ##### 比如，右侧的平面内有2个三角形，其顶点坐标为已知，m个任意点的坐标也已知，问这m个点中有多少位于这2个三角形内，需明确位于每个三角形内的点的个数。
 
-## Exercise3（15分）:
+## Exercise3（15分）(not finished):
 #### Compute and visualize the atmospheric pressure and wind field of Typhoon Hagibis or Typhoon Faxai using Myers formula and Mitsuta-Fujii wind model. You can use the best track data provided by Japan Meteorological Agency (JMA). All of the typhoon track steps should be computed and plotted. Each figure corresponds to a typhoon track step. Submit the python script or notebook to me as well as the necessary input files and your output figures. (Please note that you’d better first transfer the spherical coordinates to cartesian for distance computation.)
 
 ----
